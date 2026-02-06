@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yoroxy
+    name: TBMW
     env: node
     plan: free
     repo: https://github.com/Yosshy-123/Yoroxy.git
